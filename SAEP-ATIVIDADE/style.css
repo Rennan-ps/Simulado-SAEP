@@ -18,7 +18,7 @@ body {
 .container {
     width: 80%;
     margin: 40px auto;
-    background-color: #fff;
+    background-color: black;
     padding: 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
@@ -26,13 +26,13 @@ body {
 
 /* Navbar */
 .navbar {
-    background-color: #007bff;
+    background-color: #00ff9d;
     padding: 15px 0;
     text-align: center;
 }
 
 .navbar a {
-    color: #fff;
+    color: #000000;
     text-decoration: none;
     font-size: 18px;
     padding: 10px 20px;
@@ -108,14 +108,14 @@ button:hover {
 
 .table-alunos .btn-delete {
     padding: 5px 10px;
-    background-color: #e74c3c;
+    background-color: #00d6fc;
     color: white;
     border-radius: 4px;
     text-decoration: none;
 }
 
 .table-alunos .btn-delete:hover {
-    background-color: #c0392b;
+    background-color: #00d6fc;
 }
 
 /* Footer */
@@ -149,3 +149,5 @@ footer p {
         font-size: 16px;
     }
 }
+
+/* CSS terminado--> no dia 03/10 às 10:00     7) */  

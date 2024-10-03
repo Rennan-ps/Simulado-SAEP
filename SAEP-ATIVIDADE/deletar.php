@@ -13,5 +13,5 @@ if (isset($_GET['id'])) {
 
     $conn->close();
 }
-// Exclusão de Registros --> feita em 01/10 10:20
+// Exclusão de Registros --> feita em 01/10 11:10  6)
 ?>

@@ -16,5 +16,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     }
 
     $conn->close();
-}
+} // Formulário de Cadastro com CSS --> feita em 01/10 10:30   3), 4)
 ?>
+

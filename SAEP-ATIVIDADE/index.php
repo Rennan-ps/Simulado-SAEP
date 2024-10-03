@@ -84,12 +84,12 @@ include 'db.php';
                     }
                 } else {
                     echo "<tr><td colspan='6'>Nenhum aluno encontrado</td></tr>";
-                }
-                ?>
+                } // Listagem de Alunos com Estilo CSS --> feita em 03/10 9:30   5), 9)
+                ?>  
             </tbody>
         </table>
     </div>
-</body>
+</body> 
 </html>
 
-</html>
+</html> 
